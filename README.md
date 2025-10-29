@@ -2,12 +2,12 @@
 • Descripción del proyecto. <br>
 • Estructura del repositorio. <br>
 <p>
-SmartCampus/
+SmartCampus/ <br>
   CodigoFuente/
     AppWebReservas/
     Scripts/
     Configuraciones/
-  DocumentacionTecnica/
-  Entregables/
+  DocumentacionTecnica/ <br>
+  Entregables/<br>
 </p>
 • Tabla con roles del equipo.
