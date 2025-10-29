@@ -10,4 +10,6 @@ SmartCampus/ <br>
   DocumentacionTecnica/ <br>
   Entregables/<br>
 </p>
-• Tabla con roles del equipo.
+• equipo.
+Hector
+Ismael
